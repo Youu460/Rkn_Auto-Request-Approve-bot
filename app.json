@@ -25,22 +25,22 @@
     }, 
     "FORCE_SUB": {
       "description": "Enter your Force Subscribe chat id.",
-      "required": "-1001819787652"
+      "required": "-1002362555958"
     },
     "LOG_CHANNEL": {
-      "description": "Enter your log channel id ",
+      "description": "-1002417761112",
       "required": true
     },
     "DB_URL": {
-      "description": "Enter your mongodb url..",
+      "description": "mongodb+srv://nistalieon:nistalieon@cluster0.h2huf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "DB_NAME": {
-      "description": "Enter your mongodb cluster name.",
+      "description": "Cluster0",
       "required": "Rkn_Auto_Aprove_Bot"
     },
     "ADMIN": {
-      "description": "Enter Bot Owners IDS",
+      "description": "5130458445",
       "required": true}
   },
     "buildpacks": [
