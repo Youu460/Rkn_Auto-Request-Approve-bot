@@ -16,7 +16,7 @@
       "required": true
     },
     "API_HASH": {
-      "description": "Enter your API_HASH, get it from http://t.me/ApiScrapManBot",
+      "description": "5afd3ea9d0018ed654ae39a87aee62c7",
       "required": true
     },
     "BOT_TOKEN": {
