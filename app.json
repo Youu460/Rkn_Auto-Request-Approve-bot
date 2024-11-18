@@ -12,7 +12,7 @@
     
     "env": {
     "API_ID": {
-      "description": "Enter your API_ID, get it from http://t.me/ApiScrapManBot",
+      "description": "11824466",
       "required": true
     },
     "API_HASH": {
