@@ -20,7 +20,7 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Enter your Bot token, get it from @BotFather",
+      "description": "7709070462:AAGajcouJHWgLs0ef_b-46yqJTIAaqGrCc4",
       "required": true
     }, 
     "FORCE_SUB": {
