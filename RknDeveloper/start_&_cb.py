@@ -83,8 +83,8 @@ async def start_commond(bot, m :Message):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("🪝 𝘼𝘽𝙊𝙐𝙏", callback_data = "about")
                     ],[
-                InlineKeyboardButton("📺 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url="https://t.me/RknDeveloper"),
-                InlineKeyboardButton("⚓️ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋⚓️", url="https://t.me/RknBots_Support")
+                InlineKeyboardButton("📺 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url="https://t.me/+3f1-fix2NrVmNTc0"),
+                InlineKeyboardButton("⚓️ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋⚓️", url="https://t.me/+3f1-fix2NrVmNTc0")
                 ],[
                 InlineKeyboardButton("📍𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/{bot.username}?startchannel=Bots4Sale&admin=invite_users+manage_chat")
                 ],[
@@ -99,8 +99,8 @@ async def start_query(bot, cb : CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("🪝 𝘼𝘽𝙊𝙐𝙏", callback_data = "about")
                     ],[
-                InlineKeyboardButton("📺 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url="https://t.me/RknDeveloper"),
-                InlineKeyboardButton("⚓️ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋⚓️", url="https://t.me/RknBots_Support")
+                InlineKeyboardButton("📺 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url="https://t.me/+3f1-fix2NrVmNTc0"),
+                InlineKeyboardButton("⚓️ 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋⚓️", url="https://t.me/+3f1-fix2NrVmNTc0")
                 ],[
                 InlineKeyboardButton("📍𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/{bot.username}?startchannel=Bots4Sale&admin=invite_users+manage_chat")
                 ],[
